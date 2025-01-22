@@ -1,4 +1,4 @@
-# Unity-3d-mine-disarment-game
+# Unity-3d-mine-disarmament-game
 3D game where you attempt to disarm mines in order to succeed.
 
 Made with Unity.
